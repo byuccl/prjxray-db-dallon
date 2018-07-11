@@ -1,66 +1,6 @@
 [
 	{
 		"grid_deltas": [
-			1,
-			0
-		],
-		"tile_types": [
-			"BRKH_B_TERM_INT",
-			"BRKH_B_TERM_INT"
-		],
-		"wire_pairs": [
-			[
-				"B_TERM_UTURN_INT_SW6END_N0_3",
-				"B_TERM_UTURN_INT_SW6D3"
-			],
-			[
-				"B_TERM_UTURN_INT_WR1END0",
-				"B_TERM_UTURN_INT_WR1BEG0"
-			]
-		]
-	},
-	{
-		"grid_deltas": [
-			1,
-			0
-		],
-		"tile_types": [
-			"BRKH_INT",
-			"BRKH_INT"
-		],
-		"wire_pairs": [
-			[
-				"BRKH_INT_NE2BEG0",
-				"BRKH_INT_NE2END_S3_0"
-			],
-			[
-				"BRKH_INT_NW2END_S0_0",
-				"BRKH_INT_NW2BEG0"
-			],
-			[
-				"BRKH_INT_NW6END_S0_0",
-				"BRKH_INT_NW6D0"
-			],
-			[
-				"BRKH_INT_SW2END3",
-				"BRKH_INT_SW2A3"
-			],
-			[
-				"BRKH_INT_SW6END3",
-				"BRKH_INT_SW6E3"
-			],
-			[
-				"BRKH_INT_WL1END3",
-				"BRKH_INT_WL1BEG3"
-			],
-			[
-				"BRKH_INT_WR1END_S1_0",
-				"BRKH_INT_WR1BEG_S0"
-			]
-		]
-	},
-	{
-		"grid_deltas": [
 			0,
 			1
 		],
@@ -4276,34 +4216,6 @@
 			[
 				"HCLK_CK_OUTIN_L7",
 				"HCLK_CK_INOUT_R7"
-			],
-			[
-				"HCLK_NE2BEG0",
-				"HCLK_NE2END_S3_0"
-			],
-			[
-				"HCLK_NW2END_S0_0",
-				"HCLK_NW2A0"
-			],
-			[
-				"HCLK_NW6END_S0_0",
-				"HCLK_NW6D0"
-			],
-			[
-				"HCLK_SW2END_N0_3",
-				"HCLK_SW2A3"
-			],
-			[
-				"HCLK_SW6END3",
-				"HCLK_SW6E3"
-			],
-			[
-				"HCLK_WL1END3",
-				"HCLK_WL1BEG3"
-			],
-			[
-				"HCLK_WR1END_S1_0",
-				"HCLK_WR1BEG_S0"
 			]
 		]
 	},
@@ -14472,22 +14384,6 @@
 			[
 				"T_TERM_UTURN_INT_WR1END_S1_0",
 				"WR1END_S1_0"
-			]
-		]
-	},
-	{
-		"grid_deltas": [
-			1,
-			0
-		],
-		"tile_types": [
-			"T_TERM_INT",
-			"T_TERM_INT"
-		],
-		"wire_pairs": [
-			[
-				"T_TERM_UTURN_INT_WR1END_S1_0",
-				"T_TERM_UTURN_INT_WR1BEG_S0"
 			]
 		]
 	},
